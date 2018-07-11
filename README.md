@@ -1,1 +1,1 @@
-# -rec_strategy
+# rec_strategy
